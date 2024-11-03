@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: ai_commit_tool
+Version: 0.1
+Summary: A CLI tool that generates AI-based git commit messages.
+Home-page: https://github.com/awkwardlysocial/ai-commit-tool
+Author: awkwardlysocial
+Author-email: shortgrassguy@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Version Control :: Git
+Requires-Python: >=3.6
+License-File: LICENSE
+Requires-Dist: openai
+Requires-Dist: python-dotenv
+Requires-Dist: colorama
+Requires-Dist: keyring
