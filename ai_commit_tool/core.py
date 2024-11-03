@@ -71,7 +71,7 @@ def update_api_key():
 # filters git diff so it only runs code changes through AI
 def filter_file_type():
     # common code file types. add your own as needed
-    file_types = [".py", ".html", ".css", ".js",".ts", ".java", ".php", ".cs"]
+    file_types = [".py", ".html", ".css", ".js",".ts", ".java", ".php", ".cs", ".md"]
 
     # get the names of all staged files
     result = subprocess.run(["git", "diff", "--cached", "--name-only"], capture_output=True, text=True)

@@ -53,6 +53,9 @@ The tool processes changes in code files by analyzing the `git diff` output, foc
 pip install ai-commit-tool
 ```
 
+Link to PyPi:
+https://pypi.org/project/ai-commit-tool/
+
 ## Setup
 
 ### OpenAI API Key
