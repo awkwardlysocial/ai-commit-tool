@@ -62,6 +62,10 @@ https://pypi.org/project/ai-commit-tool/
 
 This tool requires an OpenAI API key to function. 
 
+Get that key here:
+
+https://platform.openai.com/account/api-keys
+
 ### Projects using git
 
 This only works on projects that you have initalized with git
