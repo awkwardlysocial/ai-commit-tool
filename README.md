@@ -2,28 +2,6 @@
 
 A CLI tool that generates AI-powered git commit messages.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-  - [Prerequisites](#prerequisites)
-  - [Install via pip](#install-via-pip)
-- [Setup](#setup)
-  - [OpenAI API Key](#openai-api-key)
-    - [First-Time Setup](#first-time-setup)
-    - [Alternative Methods](#alternative-methods)
-- [Usage](#usage)
-  - [Basic Usage](#basic-usage)
-  - [Updating the API Key](#updating-the-api-key)
-- [Examples](#examples)
-  - [Example 1: Accepting the AI-Generated Message](#example-1-accepting-the-ai-generated-message)
-  - [Example 2: Entering a Custom Message](#example-2-entering-a-custom-message)
-- [Contributing](#contributing)
-  - [Guidelines](#guidelines)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
 ## Introduction
 
 I was tired of always typing commits so why not build a tool that makes it so I dont have to. Also AI is cool right now. Please let me know your feedback! As I continue to learn Python I thought this would be a cool project to put my skills to the test and collaborate with others!
