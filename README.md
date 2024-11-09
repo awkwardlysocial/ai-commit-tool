@@ -46,7 +46,7 @@ https://platform.openai.com/account/api-keys
 
 ### Projects using git
 
-This only works on projects that you have initalized with git
+This only works on projects that you have initialized with git
 
 #### First-Time Setup
 
